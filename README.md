@@ -27,7 +27,7 @@ A production-ready REST API template built with Node.js, Express, and MongoDB.
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/rest-api-template.git
+git clone https://github.com/nelwaderushikesh27/rest-api-template.git
 
 # Install dependencies
 npm install
